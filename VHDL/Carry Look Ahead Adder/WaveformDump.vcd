@@ -1,0 +1,64 @@
+$date
+  Wed Aug 04 15:35:00 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " b[3:0] $end
+$var reg 1 # cin $end
+$var reg 1 $ cout $end
+$var reg 4 % sum[3:0] $end
+$scope module dut $end
+$var reg 4 & a[3:0] $end
+$var reg 4 ' b[3:0] $end
+$var reg 1 ( cin $end
+$var reg 1 ) cout $end
+$var reg 4 * sum[3:0] $end
+$var reg 4 + s_propagate[3:0] $end
+$var reg 4 , s_generate[3:0] $end
+$var reg 5 - s_c_intermediates[4:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b1110 !
+b1010 "
+0#
+1$
+b1110 %
+b1110 &
+b1010 '
+0(
+1)
+b1110 *
+b0100 +
+b1010 ,
+b11100 -
+#5000000
+b1100 !
+b0001 "
+1#
+0$
+b1101 %
+b1100 &
+b0001 '
+1(
+0)
+b1101 *
+b1101 +
+b0000 ,
+b00011 -
+#10000000
+b0000 !
+b0000 "
+0#
+b0000 %
+b0000 &
+b0000 '
+0(
+b0000 *
+b0000 +
+b00000 -

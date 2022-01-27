@@ -1,0 +1,76 @@
+$date
+  Wed May 12 19:23:28 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " b[3:0] $end
+$var reg 1 # cin $end
+$var reg 1 $ cout $end
+$var reg 1 % m $end
+$var reg 4 & s[3:0] $end
+$scope module dut $end
+$var reg 4 ' a[3:0] $end
+$var reg 4 ( b[3:0] $end
+$var reg 1 ) cin $end
+$var reg 1 * cout $end
+$var reg 1 + m $end
+$var reg 4 , s[3:0] $end
+$var reg 5 - c[4:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0110 !
+b1100 "
+1#
+1$
+0%
+b0011 &
+b0110 '
+b1100 (
+1)
+1*
+0+
+b0011 ,
+b11001 -
+#5000000
+b1111 !
+b1100 &
+b1111 '
+b1100 ,
+b11111 -
+#10000000
+b0110 !
+b0111 "
+0$
+1%
+b1111 &
+b0110 '
+b0111 (
+0*
+1+
+b1111 ,
+b00001 -
+#15000000
+b0111 !
+b0110 "
+1$
+b0001 &
+b0111 '
+b0110 (
+1*
+b0001 ,
+b11111 -
+#20000000
+b0000 !
+b0000 "
+0#
+b0000 &
+b0000 '
+b0000 (
+0)
+b0000 ,

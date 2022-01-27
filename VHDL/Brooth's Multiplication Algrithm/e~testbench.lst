@@ -1,0 +1,12 @@
+>C:\Program Files (x86)\Ghdl\lib/ghdl\synopsys\v93\
+../../src/ieee/v93/std_logic_1164.vhdl
+>C:\Program Files (x86)\Ghdl\lib/ghdl\synopsys\v93\
+../../src/ieee/v93/std_logic_1164-body.vhdl
+>
+src/BMA_tb.vhd
+>C:\Program Files (x86)\Ghdl\lib/ghdl\synopsys\v93\
+../../src/synopsys/std_logic_arith.vhdl
+>C:\Program Files (x86)\Ghdl\lib/ghdl\synopsys\v93\
+../../src/synopsys/std_logic_unsigned.vhdl
+>
+src/BMA.vhd

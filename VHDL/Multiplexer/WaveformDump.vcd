@@ -1,0 +1,83 @@
+$date
+  Wed Jun 09 16:56:30 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! selectionline_0 $end
+$var reg 1 " selectionline_1 $end
+$var reg 1 # selectionline_2 $end
+$var reg 1 $ inputline_0 $end
+$var reg 1 % inputline_1 $end
+$var reg 1 & inputline_2 $end
+$var reg 1 ' inputline_3 $end
+$var reg 1 ( inputline_4 $end
+$var reg 1 ) inputline_5 $end
+$var reg 1 * inputline_6 $end
+$var reg 1 + inputline_7 $end
+$scope module dut $end
+$var reg 1 , selectionline_0 $end
+$var reg 1 - selectionline_1 $end
+$var reg 1 . selectionline_2 $end
+$var reg 1 / inputline_0 $end
+$var reg 1 0 inputline_1 $end
+$var reg 1 1 inputline_2 $end
+$var reg 1 2 inputline_3 $end
+$var reg 1 3 inputline_4 $end
+$var reg 1 4 inputline_5 $end
+$var reg 1 5 inputline_6 $end
+$var reg 1 6 inputline_7 $end
+$var reg 1 7 outputline $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+1$
+0%
+1&
+0'
+1(
+1)
+0*
+0+
+0,
+0-
+0.
+1/
+00
+11
+02
+13
+14
+05
+06
+17
+#100000000
+1!
+1,
+07
+#200000000
+0!
+1"
+1%
+1'
+0,
+1-
+10
+12
+17
+#300000000
+0"
+1#
+0%
+0'
+0-
+1.
+00
+02
+#400000000
